@@ -6,7 +6,6 @@ This is my first Git and GitHub project.
 - GitHub
 - Linux
 Created by Danish Abdal
-=======
 # git-github-practice
 ## Future Learning 
 - Docker
